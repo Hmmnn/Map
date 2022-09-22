@@ -1,0 +1,3 @@
+- 9/21
+gizmo 이용해 cellular automata 작동 테스트. 
+검사 반복 횟수(변수 iteration)가 제대로 안 먹히는 듯 해 확인 중. 
